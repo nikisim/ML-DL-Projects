@@ -1,0 +1,3 @@
+[submodule "Predict_Uber_ride"]
+	path = Predict_Uber_ride
+	url = git@github.com:nikisim/Predict_Uber_ride.git
